@@ -1,4 +1,21 @@
 /* Write your CSS here! */
+body {
+    margin: 25px 600px
+}
+
 a {
     color: #333
+}
+
+#mainHeading {
+    color: red
+}
+
+.banner {
+    height: 150px;
+    width: 1300px
+}
+
+.funParagraph {
+    color: green
 }
